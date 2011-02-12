@@ -1,0 +1,25 @@
+MD5Sum: a3bd691339d166b003b70ff6affc37eb
+Maintainer: Tomky Wang <tomkywang@gmail.com>
+Description: A better Zhuyin keyboard for iPhone OS 3.x
+Package: com.betterzhuyin.bz3
+Section: Keyboards
+Author: Tomky Wang <tomkywang@gmail.com>
+Filename: debs/BetterZhuyin3_1.1__iphoneos-arm.deb
+Version: 1.1
+Architecture: iphoneos-arm
+Size: 163880
+Homepage: http://code.google.com/p/betterzhuyin
+Name: BetterZhuyin3
+
+MD5Sum: 2adc31b92502b88b407bd7853f070f3c
+Maintainer: Tomky Wang <tomkywang@gmail.com>
+Description: A better Zhuyin keyboard for iOS 4.x
+Package: com.betterzhuyin.bz4
+Section: Keyboards
+Author: Tomky Wang <tomkywang@gmail.com>
+Filename: debs/BetterZhuyin4_1.1__iphoneos-arm.deb
+Version: 1.1
+Architecture: iphoneos-arm
+Size: 274902
+Homepage: http://code.google.com/p/betterzhuyin
+Name: BetterZhuyin4
