@@ -4,7 +4,7 @@ Description: A better Zhuyin keyboard for iPhone OS 3.x
 Package: com.betterzhuyin.bz3
 Section: Keyboards
 Author: Tomky Wang <tomkywang@gmail.com>
-Filename: debs/BetterZhuyin3_1.1__iphoneos-arm.deb
+Filename: debs/BetterZhuyin3_1.1_iphoneos-arm.deb
 Version: 1.1
 Architecture: iphoneos-arm
 Size: 163880
@@ -17,7 +17,7 @@ Description: A better Zhuyin keyboard for iOS 4.x
 Package: com.betterzhuyin.bz4
 Section: Keyboards
 Author: Tomky Wang <tomkywang@gmail.com>
-Filename: debs/BetterZhuyin4_1.1__iphoneos-arm.deb
+Filename: debs/BetterZhuyin4_1.1_iphoneos-arm.deb
 Version: 1.1
 Architecture: iphoneos-arm
 Size: 274902
