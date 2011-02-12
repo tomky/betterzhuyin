@@ -1,0 +1,8 @@
+Origin: Better Zhuyin Repository
+Label: Better Zhuyin Repository
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: darwin-arm
+Components: main
+Description: Host of Better Zhuyin keyboards
