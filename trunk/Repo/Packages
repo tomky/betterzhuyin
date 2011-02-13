@@ -2,6 +2,7 @@ MD5Sum: 4ec1cf405e43270be64e28d8fdb98984
 Maintainer: Tomky Wang <tomkywang@gmail.com>
 Description: A better Zhuyin keyboard for iPhone OS 3.x
 Package: com.betterzhuyin.bz3
+Depends: firmware (>=3.0), firmware (<=3.1.3)
 Section: Keyboards
 Author: Tomky Wang <tomkywang@gmail.com>
 Filename: debs/BetterZhuyin3_1.1_iphoneos-arm.deb
