@@ -12,15 +12,15 @@ Size: 162492
 Homepage: http://code.google.com/p/betterzhuyin
 Name: BetterZhuyin3
 
-MD5Sum: fa2be652975829ac82929c612db8faa8
+MD5Sum: 3387c0ba0e76f0152c3118a8618285e7
 Maintainer: Tomky Wang <tomkywang@gmail.com>
 Description: A better Zhuyin keyboard for iOS 4.x
 Package: com.betterzhuyin.bz4
 Section: Keyboards
 Author: Tomky Wang <tomkywang@gmail.com>
 Filename: debs/BetterZhuyin4_1.1_iphoneos-arm.deb
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
-Size: 273348
+Size: 273414
 Homepage: http://code.google.com/p/betterzhuyin
 Name: BetterZhuyin4
