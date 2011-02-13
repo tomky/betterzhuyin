@@ -7,7 +7,7 @@ Author: Tomky Wang <tomkywang@gmail.com>
 Filename: debs/BetterZhuyin3_1.1_iphoneos-arm.deb
 Version: 1.1
 Architecture: iphoneos-arm
-Size: 163880
+Size: 162446
 Homepage: http://code.google.com/p/betterzhuyin
 Name: BetterZhuyin3
 
@@ -20,6 +20,6 @@ Author: Tomky Wang <tomkywang@gmail.com>
 Filename: debs/BetterZhuyin4_1.1_iphoneos-arm.deb
 Version: 1.1
 Architecture: iphoneos-arm
-Size: 274902
+Size: 273348
 Homepage: http://code.google.com/p/betterzhuyin
 Name: BetterZhuyin4
