@@ -1,4 +1,4 @@
-MD5Sum: a3bd691339d166b003b70ff6affc37eb
+MD5Sum: 26819a8c8d4421bbcc8333576fab5575
 Maintainer: Tomky Wang <tomkywang@gmail.com>
 Description: A better Zhuyin keyboard for iPhone OS 3.x
 Package: com.betterzhuyin.bz3
@@ -11,7 +11,7 @@ Size: 163880
 Homepage: http://code.google.com/p/betterzhuyin
 Name: BetterZhuyin3
 
-MD5Sum: 2adc31b92502b88b407bd7853f070f3c
+MD5Sum: fa2be652975829ac82929c612db8faa8
 Maintainer: Tomky Wang <tomkywang@gmail.com>
 Description: A better Zhuyin keyboard for iOS 4.x
 Package: com.betterzhuyin.bz4
