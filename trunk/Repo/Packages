@@ -21,6 +21,8 @@ Author: Tomky Wang <tomkywang@gmail.com>
 Filename: debs/BetterZhuyin4_1.2_iphoneos-arm.deb
 Version: 1.2
 Architecture: iphoneos-arm
+Depends: firmware (>=4.0), firmware (<=4.2.1)
+Conflicts: jp.ashikase.showcase
 Size: 273414
 Homepage: http://code.google.com/p/betterzhuyin
 Name: BetterZhuyin4
