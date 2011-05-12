@@ -23,6 +23,6 @@ Version: 1.3-6
 Architecture: iphoneos-arm
 Depends: firmware (>= 4.0), firmware (<< 4.4), mobilesubstrate
 Conflicts: jp.ashikase.showcase
-Size: 273,970
+Size: 273970
 Homepage: http://code.google.com/p/betterzhuyin
 Name: BetterZhuyin4
